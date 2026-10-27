@@ -1,0 +1,1 @@
+{"description":"Bhivanta Organics Unified AI Team — 5 teams, 5 managers, CEO dashboard, draft-only approval-gated, zero paid deps","engines":{"node":">=24"},"main":"server.js","name":"bhivanta-ai-team","scripts":{"start":"node server.js","test":"node --test tests/engine.test.js"},"version":"1.0.0"}
